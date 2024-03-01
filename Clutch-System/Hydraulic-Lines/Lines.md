@@ -5,17 +5,17 @@ TODO: Add dimensions and sketch of slave cylinder
 
 At the other end of the system is the master cylinder.  Details below:
 
-	DE+:
-		Bore: 
-		- 5/8"in
+    DE+:
+        Bore: 
+        - 5/8"in
 
-	HR:
-		Bore: 
-		- 11/16"in
+    HR:
+        Bore: 
+        - 11/16"in
 
-	All:
-		Thread Size and Pitch:
-		- M10x1.0
+    All:
+        Thread Size and Pitch:
+        - M10x1.0
 
 TODO: Move these to their own dedicated section
 
@@ -24,22 +24,23 @@ The clutch lines in the 350Z are notorious for being difficult to bleed.  This w
 The clutch lines are all threaded in M10x1.0.  When replacing the clutch lines, some will opt to replace only the soft line and leave the hardline in place.  There are many kits out there that achieve this, and, in the case of the HR, the length of the flexible section will be no longer than approximately 30cm (data sourced from UKDM RHD vehicle).
 
 Hose Details:
-	DE+:
-		- Unknown, please fork and submit a pull req if known
-	HR:
-		Lengths:
-			Short (Flexi):
-			- Approx. 30cm
-			Combined run (CMC to CSC termination block)
-			- Approx. 228cm
 
-		Fittings:
-			Short (Flexi):
-			- 2x Female M10x1.0 Circlip Fittings
-			Hard Line (CMC to Damper)
-			- M10x1.0 Male to M10x1.0 Male
-			Hard Line (Damper to Flexi)
-			- M101.0 Male to M10x1.0 Male
+    DE+:
+        - Unknown, please fork and submit a pull req if known
+    HR:
+        Lengths:
+            Short (Flexi):
+            - Approx. 30cm
+            Combined run (CMC to CSC termination block)
+            - Approx. 228cm
+
+        Fittings:
+            Short (Flexi):
+            - 2x Female M10x1.0 Circlip Fittings
+            Hard Line (CMC to Damper)
+            - M10x1.0 Male to M10x1.0 Male
+            Hard Line (Damper to Flexi)
+            - M101.0 Male to M10x1.0 Male
 
 Many people will replace the master cylinder with an aftermarket unit when using heavier aftermarket clutches.  There is no adjustment to be made in hydraulic system.  Clutch "bite" and modulation is a function of the throw distance between the face of the CSC and your pressure plate and the bore/displacement of your master cylinder.  Clutch "weight" is a function of pressure plate strength and CSC/CMC bore.  This being said, it is *possible* to make some minor adjustments to the height of your clutch pedal by winding in the clevis on your master cylinder, and winding out either your upper clutch stopper on cars unequipped with cruise control or your clutch ASCD on cruise-equipped vehicles.  Both are located in the same place.  This will **NOT** change the characteristics of your clutch - just the height of your pedal.
 
