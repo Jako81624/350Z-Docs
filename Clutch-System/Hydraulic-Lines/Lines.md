@@ -19,7 +19,7 @@ At the other end of the system is the master cylinder.  Details below:
 
 TODO: Move these to their own dedicated section
 
-The clutch lines in the 350Z are notorious for being difficult to bleed.  This will lead a lot of people to replacing them.  In stock form, both the pre-HR and HR generation use three clutch lines.  The first leads to the clutch damper located in the front-left wheel-well behind the rearwards plastic shroud.  The second leads from the aformentioned damper, to a bracket underneath the car.  This bracket is what starts the third section - this time using flexible hose.  As of writing, my experience is with the HR generation, and in this case the flexible hose is secured at both ends with horseshoe clips to a bracket on the chassis and the gearbox respectively.
+The clutch lines in the 350Z are notorious for being difficult to bleed.  This will lead a lot of people to replacing them.  In stock form, both the pre-HR and HR generation use four clutch lines.  The first leads to the clutch damper located in the front-left wheel-well behind the rearwards plastic shroud.  The second leads from the aformentioned damper, to a bracket underneath the car.  This bracket is what starts the third section - this time using flexible hose.  The final section is a short and arguably redunant hardline run that exits the flexible hose and performs a u-turn to go back into the CSC termination block.  As of writing, my experience is with the HR generation, and in this case the flexible hose is secured at both ends with horseshoe clips to a bracket on the chassis and the gearbox respectively.
 
 The clutch lines are all threaded in M10x1.0.  When replacing the clutch lines, some will opt to replace only the soft line and leave the hardline in place.  There are many kits out there that achieve this, and, in the case of the HR, the length of the flexible section will be no longer than approximately 30cm (data sourced from UKDM RHD vehicle).
 
@@ -37,6 +37,8 @@ Hose Details:
         Fittings:
             Short (Flexi):
             - 2x Female M10x1.0 Circlip Fittings
+	    Short (Flexi to CSC termination block):
+	    - M10x.10 Male (Convex lip, flexi end) to M10x1.0 Male (Concave lip, termination block end)
             Hard Line (CMC to Damper)
             - M10x1.0 Male to M10x1.0 Male
             Hard Line (Damper to Flexi)
