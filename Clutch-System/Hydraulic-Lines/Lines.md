@@ -37,8 +37,8 @@ Hose Details:
         Fittings:
             Short (Flexi):
             - 2x Female M10x1.0 Circlip Fittings
-	    Short (Flexi to CSC termination block):
-	    - M10x.10 Male (Convex lip, flexi end) to M10x1.0 Male (Concave lip, termination block end)
+            Short (Flexi to CSC termination block):
+            - M10x.10 Male (Convex lip, flexi end) to M10x1.0 Male (Concave lip, termination block end)
             Hard Line (CMC to Damper)
             - M10x1.0 Male to M10x1.0 Male
             Hard Line (Damper to Flexi)
