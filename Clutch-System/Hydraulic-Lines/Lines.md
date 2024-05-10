@@ -16,6 +16,8 @@ At the other end of the system is the master cylinder.  Details below:
     All:
         Thread Size and Pitch:
         - M10x1.0
+        Clutch Feed Hose Size:
+        - 8AN
 
 TODO: Move these to their own dedicated section
 
