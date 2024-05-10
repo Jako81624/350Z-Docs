@@ -1,0 +1,26 @@
+31-17.7 = 17.7mm (Side Edge) (Can't remember where this came from, but it checks out with a^2+b^2=c^2)
+
+Hypotenuse = 35mm (Measured)
+
+Bottom Edge = 30.19 (Measured)
+
+a/Sina = b/Sinb -> 35/Sin90 = 17.7/Sinb
+
+Sina/a = Sinb/b -> Sin90/35 = Sinb/17.7
+
+(Sina/a) * b = Sinb -> Sin90/35 * 17.7 = 0.5057
+
+Sin^-1(Sinb) = Sin^-1(0.5057) = 30.37 Degrees (Angle of bolt from horizontal centreline with outlet facing upwards, same applies in the inverse on the other side)
+
+350Z Pedal Width - 6.3mm
+
+CMC Mounting PCD - 70mm
+
+CMC Firewall Bolts - M8
+
+CMC Clevis Thread - M8
+
+4.96 - Top Length
+45 Degree b angle
+90 degree a angle
+45 degree c angle
