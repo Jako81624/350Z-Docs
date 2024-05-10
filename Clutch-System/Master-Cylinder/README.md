@@ -5,4 +5,6 @@ If all you want is the adapter, send the DXF file to your laser cutting service 
 
 It is likely that the fit in the bolt holes will be tight.  Persevere, it will install snug.
 
+You will almost certainly need to replace the stock clutch line to accomodate an aftermarket CMC.  Measurements and fittings for those lines are in Hydraulic-Lines folder one directory up from here.  If in doubt, use a banjo bolt.
+
 CC-BY-SA 4.0
